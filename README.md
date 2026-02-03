@@ -1,6 +1,11 @@
 ﻿# The Archive Of Damn Near All Roblox Classic Faces
 
- Contained in this github repo is a copy of all Roblox classic faces.
- Enjoy.
+Contained in this GitHub repo is a copy of all Roblox classic faces.
 
- All faces were designed by the Roblox Team. I own none of the images presented within this repository. Please do not sue me.
+Long live the Classic Face.
+Enjoy.
+
+
+
+All faces were designed by the Roblox Team. I own none of the images presented within this repository. Please do not sue me.
+
